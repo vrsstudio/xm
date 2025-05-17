@@ -2,7 +2,7 @@
     "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
     "company_name": "Кредит до 1 000 000 ",
     "loan_amount":"от 21 000 до 70 000 ₽",
-   "url": "https://example.com/"
+   "url": "https://www.google.com/"
   }
 ,
 
@@ -10,7 +10,7 @@
     "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
     "company_name": "Кредит на любые нужды",
     "loan_amount":"от 31 000 до 70 000 ₽",
-   "url": "https://example.com/"
+   "url": "https://www.google.com/"
   }
   
 ]
