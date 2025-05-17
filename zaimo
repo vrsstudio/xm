@@ -1,6 +1,6 @@
 [{
     "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-    "company_name": "Займы под 0%",
+    "company_name": "Займы под 0.01%",
     "loan_amount":"до 30 000 руб",
    "url": "https://www.google.com/"
   }
@@ -16,7 +16,7 @@
 
 {
     "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-    "company_name": "Займы за 5 мин.",
+    "company_name": "Займы за 15 мин.",
     "loan_amount":"до 40 000 руб",
    "url": "https://www.google.com/"
   }]
