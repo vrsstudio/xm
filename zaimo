@@ -2,7 +2,7 @@
     "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
     "company_name": "Займы под 0%",
     "loan_amount":"до 30 000 руб",
-   "url": "https://example.com/"
+   "url": "https://www.google.com/"
   }
 ,
 
@@ -10,7 +10,7 @@
     "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
     "company_name": "Займы за 5 мин.",
     "loan_amount":"до 20 000 руб",
-   "url": "https://example.com/"
+   "url": "https://www.google.com/"
   }
   ,
 
@@ -18,5 +18,5 @@
     "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
     "company_name": "Займы за 5 мин.",
     "loan_amount":"до 40 000 руб",
-   "url": "https://example.com/"
+   "url": "https://www.google.com/"
   }]
