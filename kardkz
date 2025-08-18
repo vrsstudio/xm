@@ -1,16 +1,16 @@
 [{
-    "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-    "company_name": "Кредит до 1 000 000 ",
-    "loan_amount":"от 21 000 до 70 000 ₽",
-   "url": "https://www.cbr.ru/finorg/"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/normadkz.png",
+    "company_name": "Карта Nomad Club",
+    "loan_amount":"от 500 000 до 5 000 000 ₸",
+   "url": "https://altynbank.kz/ru/personal/nomad-card"
   }
 ,
 
 {
-    "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-    "company_name": "Кредит на любые нужды",
-    "loan_amount":"от 31 000 до 70 000 ₽",
-   "url": "https://www.cbr.ru/finorg/"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/Horse-card-MCkz.png",
+    "company_name": "Кредитная карта SmartCard",
+    "loan_amount":"от 100 000 до 3 000 000 ₸",
+   "url": "https://eubank.kz/old-smartcard/"
   }
   
 ]
