@@ -1,0 +1,103 @@
+[
+
+ {
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+ "company_name":"Займы за 5 мин.",
+"loan_amount": "до 30 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=brttwo"
+}
+
+,
+
+
+
+
+
+ {
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",   
+ "company_name":"Займы за 5 мин.",
+"loan_amount": "до 100 000 руб",
+"age": "От 18 лет",
+ "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=brttwo"
+},
+
+
+ {
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",   
+ "company_name":"Займы за 5 мин.",
+"loan_amount": "до 80 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=brttwo"
+},
+
+ {
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",   
+ "company_name":"Первый займ под 0%",
+"loan_amount": "до 30 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=brttwo"
+}
+,
+
+ {
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",   
+ "company_name":"Займы за 5 мин.",
+"loan_amount": "до 50 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=brttwo"
+}
+
+,
+
+
+
+{
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/privet-sosed.png",
+   "company_name":"Первый займ под 0%",
+ "loan_amount": "до 30 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/5e145df945c52c6718bc45a9f8050cde?aff_sub1=brttwo&erid=2W5zFJErUKA"
+}
+    
+ ,
+
+
+{
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/srazuz.jpg",
+   "company_name":"Первый займ под 1%",
+ "loan_amount": "до 30 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/49b6f59570becd0c9d9a772afb1302ad?aff_sub1=brttwo&erid=2W5zFGDsBp4"
+}
+    
+ ,
+
+
+{
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
+   "company_name":"Первый займ под 0%",
+ "loan_amount": "до 100 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/32045dfc3b123f37c8b2db558e8a911a?aff_sub1=brttwo&erid=2W5zFGBtxUp"
+}
+    
+ ,
+
+
+ {
+"logo": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
+ "company_name":"Первый займ под 0%",
+"loan_amount": "до 100 000 руб",
+"age": "От 18 лет",
+ "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=brttwo"
+}
+    
+
+
+
+    
+
+    
+
+]
