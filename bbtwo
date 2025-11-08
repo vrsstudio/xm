@@ -1,39 +1,132 @@
 [
-{
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/ezaemru.png",
-      "name": "25 дней без процентов",
-     "rating": 5,
-   "age":"от 18 лет",
-	"sum_one": "от 1 500 до 45 000 руб",
-	"odobrenie": "Высокое",
- "url": "https://appstopcredits.online/ezaem/"
-},
- {
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/genbankruu.png",
-      "name": "Кредит на любые цели",
-     "rating": 4,
- "age":"от 18 лет",
-	"odobrenie": "Низкое",
-    	"sum_one": "от 2 000 до 100 000 руб",
- "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/"
-}, 
-{
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/gazpromm.png",
-      "name": "До 90 дней беспроцентный период",
-     "rating": 5,
- "age":"от 18 лет",
-	"odobrenie": "Низкое",
-    	"sum_one": "от 2 000 до 1 000 000 руб",
- "url": "https://www.gazprombank.ru/personal/credit-cards/6125247/#tabs"
-}, 
-{
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/dozpru.png",
-      "name": "15 дней просрочки без штрафов",
-     "rating": 4,
- "age":"от 18 лет",
-	"odobrenie": "Низкое",
-    	"sum_one": "от 1 000 до 100 000 руб",
- "url": "https://appstopcredits.online/%d0%b4%d0%be-%d0%b7%d0%b0%d1%80%d0%bf%d0%bb%d0%b0%d1%82%d1%8b/"
-}
-    
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
+    "name": "0% переплаты первый месяц",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 100 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+    "name": "Деньги без процентов",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 30 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",
+    "name": "0₽ переплаты при возврате в срок",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 30 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+    "name": "Заём без процентов",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 30 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+    "name": "Первый месяц без процентов",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 30 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
+    "name": "Возьми сегодня — верни без %",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 100 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+    "name": "Ноль процентов.",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 80 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+    "name": "Мгновенный заём без процентов",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 100 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+    "name": "25 дней без процентов",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 50 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",
+    "name": "25 дней без процентов",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 30 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=aponkar&erid=2W5zFJkUBEY",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srazuz.jpg",
+    "name": "25 дней без процентов",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 1 000 до 100 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://trkleads.ru/click/49b6f59570becd0c9d9a772afb1302ad?aff_sub1=aponkar&erid=2W5zFGDsBp4",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+    "name": "Кредит на любые цели",
+    "rating": 5,
+    "age": "от 18 лет",
+    "odobrenie": "Высокое",
+    "sum_one": "от 2 000 до 100 000 руб",
+    "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=aponkar",
+    "email": "info@amigo.com.ua"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/privet-sosed.png",
+    "name": "До 90 дней беспроцентный период",
+    "rating": 5,
+    "age": "от 18 лет",
+    "odobrenie": "Низкое",
+    "sum_one": "от 1 000 до 30 000 руб",
+    "url": "https://trkleads.ru/click/5e145df945c52c6718bc45a9f8050cde?aff_sub1=aponkar&erid=2W5zFJErUKA",
+    "email": "info@amigo.com.ua"
+  }
 ]
