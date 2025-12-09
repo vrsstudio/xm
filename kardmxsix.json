@@ -1,0 +1,39 @@
+[
+  {
+	"name": "Nonocard",
+	"price_info": "От 3% До 500 000 руб",
+    "image_url": "http://zaem-online.kz/img/alfa.png",
+    "sum": "200 - 50 000",
+	"term": "5 - 100",
+	"percent": "0,01% - 0,15%",
+    "url": "https://tds.pdl-profit.com/h/1rkh690efbf42055a",
+    "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
+  },
+  
+  {
+	"name": "BBVA TDC",
+	"price_info": "От 5% До 300 000 руб",
+    "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
+    "sum": "1000 - 12 000",
+	"term": "5 - 100",
+	"percent": "0,02% - 1,5%",
+    "url": "https://tds.pdl-profit.com/h/1rig6909cc6956b98",
+    "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
+  },
+	{
+	"name": "Loaney",
+	"price_info": "От 5% До 300 000 руб",
+    "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
+    "sum": "1000 - 300 000",
+	"term": "5 - 100",
+	"percent": "0,01% - 0,25%",
+    "url": "https://tds.pdl-profit.com/h/1rek68860968c840c",
+    "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
+  }
+]
+
+
+
+
+
+
