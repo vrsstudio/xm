@@ -1,33 +1,33 @@
 [
   {
-	"name": "Nonocard",
+	"name": "Banamex Gold",
 	"price_info": "От 3% До 500 000 руб",
     "image_url": "http://zaem-online.kz/img/alfa.png",
-    "sum": "200 - 50 000",
+    "sum": "200 - 15 000",
 	"term": "5 - 100",
 	"percent": "0,01% - 0,15%",
-    "url": "https://tds.pdl-profit.com/h/1rkh690efbf42055a",
+    "url": "https://www.banamex.com/es/personas/tarjetas-credito/tarjeta-oro.html?lid=MX|landings|tarjetas-de-credito|index-TextoMiddle-Information-IrOroBanamex-ES",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
   {
-	"name": "BBVA TDC",
+	"name": "Tarjeta LikeU",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "1000 - 12 000",
 	"term": "5 - 100",
 	"percent": "0,02% - 1,5%",
-    "url": "https://tds.pdl-profit.com/h/1rig6909cc6956b98",
+    "url": "https://www.santander.com.mx/personas/tarjetas-de-credito/likeu.html",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "Loaney",
+	"name": "HSBC Zero",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
-    "sum": "1000 - 300 000",
+    "sum": "1000 - 12 000",
 	"term": "5 - 100",
 	"percent": "0,01% - 0,25%",
-    "url": "https://tds.pdl-profit.com/h/1rek68860968c840c",
+    "url": "https://www.hsbc.com.mx/tarjetas-de-credito/productos/zero/",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]
