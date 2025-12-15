@@ -1,0 +1,32 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+    "company_name": "AlfBank",
+    "company_full": "АО «Альфа-Банк»",
+    "loan_amount": "до 70 000 ₽",
+    "percent": "от 0% в день",
+    "time": "до 5 минут",
+    "badge": "НАДЁЖНАЯ КОМПАНИЯ",
+    "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
+    "company_name": "Совкомбанк",
+    "company_full": "ПАО «Совкомбанк» ",
+    "loan_amount": "до 300 000 ₽",
+    "percent": "от 0% в день",
+    "time": "до 3 минут",
+    "badge": "НАРОДНЫЙ ВЫБОР",
+    "url": "https://sovcombank.ru/credits/cash?"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
+    "company_name": "ТБанк",
+    "company_full": "АО «ТБанк»",
+    "loan_amount": "до 400 000 ₽",
+    "percent": "от 0% в день",
+    "time": "до 5 минут",
+    "badge": "ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ",
+    "url": "https://www.tbank.ru/loans/cash-loan/"
+  }
+]
