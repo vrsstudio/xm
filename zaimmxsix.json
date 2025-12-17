@@ -1,19 +1,20 @@
+
 [
 
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
-      "name": "HSBC Advance",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
+      "name": "Alvos MX",
      "rating": 5,
      "age": "18-70",
     "percent": "0.01%",
-	"sum_one": "hasta 1 000 000",
-		"sum_min": "hasta 1 000 mxn",
+	"sum_one": "hasta 8 000",
+		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 160 días",
  
 	"term_to": "160",
    
-     "url": "https://www.hsbc.com.mx/creditos/personales/personal/",
+     "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -30,7 +31,7 @@
   }, 
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
       "name": "Kimbi MX",
      "rating": 5,
      "age": "18-70",
@@ -41,7 +42,7 @@
  
 	"term_to": "160",
    
-     "url": "https://www.santander.com.mx/personas/creditos-personales.html",
+     "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -58,18 +59,18 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
       "name": "Finpug MX",
      "rating": 5,
      "age": "18-70",
     "percent": "0.05%",
 	"sum_one": "hasta 30 000",
-		"sum_min": "hasta 1 000 mxn",
+		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 190 días",
  
 	"term_to": "160",
    
-     "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|personas|cuentas|cuenta-digital-switch|index-H1-Information-IrCreditoPersonal-ES",
+     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -83,8 +84,208 @@
 	"kruglosutochno": true
 
 
-  }  
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+      "name": "Abea MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "0.01%",
+	"sum_one": "hasta 150 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1r2v6891ae7fa7931",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	
+{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finzmomx.png",
+      "name": "Finzmo MX",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0.01%",
+	"sum_one": "hasta 12 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 160 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1qoj6891ae7cf0f71",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
+      "name": "Finloo MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "0.3%",
+	"sum_one": "hasta 80 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
+      "name": "Binixo MX",
+     "rating": 4,
+     "age": "18-70",
+    "percent": "0.3%",
+	"sum_one": "hasta 100 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rab6891ae808c54a",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
+      "name": "TurboPeso MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "0.1%",
+	"sum_one": "hasta 30 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rcs6886099735b84",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
+     "rating": 5,
+     "age": "22-55",
+    "percent": "1%",
+	"sum_one": "hasta 20 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+      "name": "Lendio MX",
+     "rating": 5,
+     "age": "21-60",
+    "percent": "0.2%",
+	"sum_one": "hasta 90 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 160 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+     
 ]
+
 
 
 
