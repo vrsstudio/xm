@@ -28,34 +28,6 @@
 
 
   },
-{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
-      "name": "Kimbi MX",
-     "rating": 5,
-     "age": "18-70",
-    "percent": "0.02%",
-	"sum_one": "hasta 100 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },
 	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
@@ -84,6 +56,35 @@
 
 
   },
+{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
+      "name": "Lemonza MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "0.01%",
+	"sum_one": "hasta 40 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	
 	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
@@ -114,8 +115,8 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finzmomx.png",
-      "name": "Finzmo MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
+      "name": "Kueski MX",
      "rating": 5,
      "age": "18-65",
     "percent": "0.01%",
@@ -125,7 +126,7 @@
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1qoj6891ae7cf0f71",
+     "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -166,18 +167,18 @@
   },
 {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
-      "name": "Binixo MX",
-     "rating": 4,
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/soliniamx.png",
+      "name": "Solinia MX",
+     "rating": 5,
      "age": "18-70",
-    "percent": "0.3%",
-	"sum_one": "hasta 100 000",
+    "percent": "0.01%",
+	"sum_one": "hasta 30 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 190 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1rab6891ae808c54a",
+     "url": "https://tds.pdl-profit.com/h/1ri8692aba3814064",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -192,8 +193,8 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
-      "name": "TurboPeso MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiliamx.jpg",
+      "name": "Creditilia MX",
      "rating": 5,
      "age": "18-70",
     "percent": "0.1%",
@@ -203,7 +204,7 @@
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1rcs6886099735b84",
+     "url": "https://tds.pdl-profit.com/h/1rfu6958e46ec5d86",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
