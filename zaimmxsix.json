@@ -1,20 +1,19 @@
 
 [
-
- {
+	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
-      "name": "Alvos MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+      "name": "Finpug MX",
      "rating": 5,
      "age": "18-70",
-    "percent": "0.01%",
-	"sum_one": "hasta 8 000",
+    "percent": "0.02%",
+	"sum_one": "hasta 30 000",
 		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 160 días",
+ "days_info": "hasta 190 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0",
+     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -28,8 +27,8 @@
 	"kruglosutochno": true
 
 
-  }, 
-	{
+  },
+{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
       "name": "Kimbi MX",
@@ -59,18 +58,18 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-      "name": "Finpug MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+      "name": "Lendio MX",
      "rating": 5,
-     "age": "18-70",
-    "percent": "0.05%",
-	"sum_one": "hasta 30 000",
+     "age": "21-60",
+    "percent": "0.01%",
+	"sum_one": "hasta 90 000",
 		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
+ "days_info": "hasta 160 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9",
+     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -113,8 +112,7 @@
 
 
   },
-	
-{
+	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finzmomx.png",
       "name": "Finzmo MX",
@@ -139,8 +137,6 @@
 	"nakartu": true,
 	"zafiveminut": true,
 	"kruglosutochno": true
-
-
   },
 	{
   
@@ -167,8 +163,6 @@
 	"nakartu": true,
 	"zafiveminut": true,
 	"kruglosutochno": true
-
-
   },
 {
   
@@ -195,8 +189,6 @@
 	"nakartu": true,
 	"zafiveminut": true,
 	"kruglosutochno": true
-
-
   },
 	{
   
@@ -223,11 +215,8 @@
 	"nakartu": true,
 	"zafiveminut": true,
 	"kruglosutochno": true
-
-
-  },
-	
- {
+ },
+	 {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
       "name": "Finmercado MX CPL",
@@ -257,18 +246,18 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
-      "name": "Lendio MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
+      "name": "Alvos MX",
      "rating": 5,
-     "age": "21-60",
-    "percent": "0.2%",
-	"sum_one": "hasta 90 000",
+     "age": "18-70",
+    "percent": "0.01%",
+	"sum_one": "hasta 8 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 160 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61",
+     "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -282,7 +271,7 @@
 	"kruglosutochno": true
 
 
-  }
+  } 
      
 ]
 
