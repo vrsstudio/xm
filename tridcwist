@@ -1,0 +1,46 @@
+[
+
+ {
+         "text": "просто и удобно!",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+        "rating": 5,
+        "sum_one": "до 5 450 000 руб.",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+    } ,
+ {
+         "text": "решения за минуты!",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
+        "rating": 5,
+        "sum_one": "до 4 000 000 руб.",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+    } ,
+     {
+       
+    "text": "высокий шанс одобрения!",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
+        "rating": 5,
+        "sum_one": "до 2 000 000 руб.",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://anketa.rencredit.ru/app/credit/site/?utm_referrer=https%3a%2f%2frencredit.ru%2f#anketa"
+    },
+ {
+      
+    "text": "",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/tbank.png",
+        "rating": 5,
+        "sum_one": "до 5 500 000 руб.",
+        "days_info": "Авторешение",
+        "percent": "0%",
+        "url": "https://www.tbank.ru/loans/cash-loan/"
+    }
+     
+       
+    
+    
+    
+]
