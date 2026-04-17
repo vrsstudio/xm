@@ -1,0 +1,32 @@
+[
+{
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",   
+"text": "Авторешение",
+"sum_one": "до 4 500 000 руб",
+ "percent": "0%",
+  "rating": 4,
+"days_info": "",
+ "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+},
+{
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",   
+"text": "Хорошие условия",
+"sum_one": "до 5 000 000 руб",
+ "percent": "0%",
+  "rating": 5,
+"days_info": "",
+ "url": "https://www.tbank.ru/loans/cash-loan/"
+},
+{
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",   
+"text": "",
+"sum_one": "до 4 000 000 руб",
+ "percent": "0%",
+  "rating": 5,
+"days_info": "",
+ "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+}
+
+
+
+]
