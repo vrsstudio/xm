@@ -27,32 +27,6 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-      "name": "Finpug MX",
-     "rating": 5,
-     "age": "18-70",
-    "percent": "0.0%",
-	"sum_one": "hasta 80 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-  },
-	{
-  
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
       "name": "Lendio MX",
      "rating": 5,
@@ -81,6 +55,32 @@
   },
 	{
   
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
+      "name": "Finmercado MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "0.01%",
+	"sum_one": "hasta 65 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+ },
+	{
+  
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
       "name": "Finmercado MX",
      "rating": 5,
@@ -105,8 +105,7 @@
 	"zafiveminut": true,
 	"kruglosutochno": true
  },
-	
-		{
+	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
       "name": "Solcredito MX",
@@ -136,18 +135,18 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/plamigo.png",
-      "name": "Finpug MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+      "name": "Kueski MX",
      "rating": 5,
-     "age": "18-70",
+     "age": "18-65",
     "percent": "0.0%",
 	"sum_one": "hasta 67 000",
 		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
+ "days_info": "hasta 160 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1s216a43c329f3efa",
+     "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -162,18 +161,18 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
-      "name": "Finmercado MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+      "name": "Finpug MX",
      "rating": 5,
      "age": "18-70",
-    "percent": "0.01%",
-	"sum_one": "hasta 65 000",
+    "percent": "0.0%",
+	"sum_one": "hasta 80 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 190 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855",
+     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -185,9 +184,34 @@
 	"nakartu": true,
 	"zafiveminut": true,
 	"kruglosutochno": true
- },
-	
-{
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/pezetitamx.png",
+      "name": "Finpug MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "0.0%",
+	"sum_one": "hasta 67 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1qdr6891ae7b84be4",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+  },
+	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
       "name": "Lemonza MX",
@@ -242,32 +266,6 @@
 	"kruglosutochno": true
 
 
-  },
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
-      "name": "Kueski MX",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "0.0%",
-	"sum_one": "hasta 67 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 160 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
   },
 	{
   
