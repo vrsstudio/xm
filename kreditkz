@@ -1,16 +1,60 @@
-[{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/berkut-vorld-elitkz.png",
-    "company_name": "Mastercard World Elite",
-    "loan_amount":"от 70 000 до 2 000 000 ₽",
-   "url": "https://eubank.kz/mastercard-world-elite/"
-  }
-,
+[
 
+ {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimbeekz.jpg",   
+ "company_name":"Получите деньги уже сегодня",
+"loan_amount": "до 600 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1s1b6a79a9ab7bf46"
+},
+ {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/bistriezaimukz.png",   
+ "company_name":"Рассмотрение за 5 мин.",
+"loan_amount": "до 900 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1rc56894cd2843ea5"
+},
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/viza-gold-kz.png",
-    "company_name": "Visa Gold",
-    "loan_amount":"от 100 000 до 3 000 000 ₽",
-   "url": "https://eubank.kz/visa-gold/"
-  }
-  
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/megazaimkz.png",   
+ "company_name":"Без долгого ожидания",
+"loan_amount": "до 450 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1s3j6a79a9dad774c"
+},
+ {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/limecreditkz.png",   
+ "company_name":"Первый займ под 0,01%",
+"loan_amount": "до 390 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1rpv6a79a9ef94dd6"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/microkashkz.jpg",   
+ "company_name":"Заявка всего за 2 минуты",
+"loan_amount": "до 560 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1rik6a79ab617049d"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/onecreditkz.png",   
+ "company_name":"Простое оформление и быстрый процесс",
+"loan_amount": "до 350 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1qoo6894cdbd2f681"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kvikukz.png",   
+ "company_name":"Заявка всего за 2 минуты",
+"loan_amount": "до 800 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1pmg6a79a93e050eb"
+},
+ {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengebaikz.png",   
+ "company_name":"Минимальные требования к заемщику",
+"loan_amount": "до 300 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1qq868a418752a284"
+}
+    
 ]
