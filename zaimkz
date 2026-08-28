@@ -1,4 +1,11 @@
 [
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/dengokz.png",   
+ "company_name":"Первый займ под 0,01%",
+"loan_amount": "до 470 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1qrt68a4186fea2b1"
+},
 
  {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",   
@@ -21,13 +28,7 @@
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1s356a79806b57db7"
 },
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/dengokz.png",   
- "company_name":"Первый займ под 0,01%",
-"loan_amount": "до 470 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1qrt68a4186fea2b1"
-},
+ 
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/oneycredit.jpg",   
  "company_name":"Заявка всего за 2 минуты",
