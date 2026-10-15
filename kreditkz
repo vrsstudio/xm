@@ -1,4 +1,11 @@
 [
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimerkz.png",   
+ "company_name":"Хватит ждать — подайте заявку онлайн",
+"loan_amount": "до 600 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1s1b6a79a9ab7bf46"
+},
 
  {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimbeekz.jpg",   
@@ -14,6 +21,13 @@
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1rc56894cd2843ea5"
 },
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/oneycredit.jpg",   
+ "company_name":"Заявка всего за 2 минуты",
+"loan_amount": "до 350 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1rmf6a79806f49d2f"
+}
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/megazaimkz.png",   
  "company_name":"Без долгого ожидания",
