@@ -13,8 +13,14 @@
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1s356a79806b57db7"
 },
-
  {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finkykz.png",   
+ "company_name":"Минимальные требования к заемщику",
+"loan_amount": "до 300 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1s2t6a79805367ffd"
+},
+{
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",   
  "company_name":"Максимально быстрая выплата",
 "loan_amount": "до 390 000 ₸",
@@ -28,21 +34,13 @@
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1rd26a7980670b58f"
 },
-
- 
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/oneycredit.jpg",   
  "company_name":"Заявка всего за 2 минуты",
 "loan_amount": "до 350 000 ₸",
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1rmf6a79806f49d2f"
-},
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finkykz.png",   
- "company_name":"Минимальные требования к заемщику",
-"loan_amount": "до 300 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1s2t6a79805367ffd"
 }
+
     
 ]
