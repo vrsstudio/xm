@@ -1,5 +1,12 @@
 [
 {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditplus.png",   
+ "company_name":"Заявка всего за 2 минуты",
+"loan_amount": "до 560 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1pd76ad60879ea957"
+},
+{
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/zaimerkz.png",   
  "company_name":"Хватит ждать — подайте заявку онлайн",
 "loan_amount": "до 600 000 ₸",
@@ -13,6 +20,20 @@
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1s1b6a79a9ab7bf46"
 },
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/joytengkz.png",   
+ "company_name":"Рассмотрение за 5 мин.",
+"loan_amount": "до 600 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1rd26a7980670b58f"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/finlitekz.png",   
+ "company_name":"Деньги нужны сегодня? Узнайте условия!",
+"loan_amount": "до 350 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1rj26ac1f8aec0f79"
+}
  {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/bistriezaimukz.png",   
  "company_name":"Рассмотрение за 5 мин.",
@@ -42,32 +63,12 @@
  "url": "https://track-pdlp.com/h/1rpv6a79a9ef94dd6"
 },
 {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/microkashkz.jpg",   
- "company_name":"Заявка всего за 2 минуты",
-"loan_amount": "до 560 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1rik6a79ab617049d"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/onecreditkz.png",   
- "company_name":"Простое оформление и быстрый процесс",
-"loan_amount": "до 350 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1qoo6894cdbd2f681"
-},
-{
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kvikukz.png",   
  "company_name":"Заявка всего за 2 минуты",
 "loan_amount": "до 800 000 ₸",
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1pmg6a79a93e050eb"
-},
- {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengebaikz.png",   
- "company_name":"Минимальные требования к заемщику",
-"loan_amount": "до 300 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1qq868a418752a284"
 }
+
     
 ]
