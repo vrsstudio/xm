@@ -7,6 +7,13 @@
  "url": "https://track-pdlp.com/h/1pd76ad60879ea957"
 },
 {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengeda.png",   
+ "company_name":"Без долгого ожидания",
+"loan_amount": "до 450 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1q4s68a418a9627fe"
+},
+{
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/conommoneykz.png",   
  "company_name":"Заявка всего за 2 минуты",
 "loan_amount": "до 350 000 ₸",
@@ -48,27 +55,14 @@
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1rc56894cd2843ea5"
 },
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengeda.png",   
- "company_name":"Без долгого ожидания",
-"loan_amount": "до 450 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1q4s68a418a9627fe"
-},
  {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/limecreditkz.png",   
  "company_name":"Первый займ под 0,01%",
 "loan_amount": "до 390 000 ₸",
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1rpv6a79a9ef94dd6"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kvikukz.png",   
- "company_name":"Заявка всего за 2 минуты",
-"loan_amount": "до 800 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1pmg6a79a93e050eb"
 }
+
 
     
 ]
