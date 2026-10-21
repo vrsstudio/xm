@@ -1,33 +1,32 @@
 [
   {
-	"name": "Binixo",
-	"price_info": "От 3% До 500 000 руб",
-    "image_url": "http://zaem-online.kz/img/alfa.png",
-    "sum": "200 - 50 000",
-	"term": "5 - 100",
-	"percent": "0,01% - 0,15%",
+    "name": "Binixo",
+    "price_info": "Desde 1% hasta 500 000 MXN",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "sum": "400 - 35 000",
+    "term": "3 años",
+    "percent": "1% - 1,85%",
     "url": "https://track-pdlp.com/h/1qd668860ad3170b1",
-    "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
+    "text": "<p>100 días sin intereses en compras y retiros de efectivo.</p><p>Límite de crédito de hasta 500 000 MXN.</p>"
   },
-  
   {
-	"name": "Klar",
-	"price_info": "От 5% До 300 000 руб",
-    "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
-    "sum": "1000 - 12 000",
-	"term": "5 - 100",
-	"percent": "0,02% - 1,5%",
+    "name": "Klar",
+    "price_info": "Desde 0% hasta 300 000 MXN",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
+    "sum": "400 - 19 000",
+    "term": "2 años",
+    "percent": "1% - 1,10%",
     "url": "https://track-pdlp.com/h/1qqb68860a98229aa",
-    "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
+    "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
   },
-	{
-	"name": "Pronto Fondeo",
-	"price_info": "От 5% До 300 000 руб",
-    "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
-    "sum": "1000 - 300 000",
-	"term": "5 - 100",
-	"percent": "0,01% - 0,25%",
-    "url": "https://track-pdlp.com/h/1pv76891ae78dd7ed",
-    "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
+  {
+    "name": "Alvos",
+    "price_info": "Desde 0% hasta 300 000 MXN",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+    "sum": "400 - 19 000",
+    "term": "2 años",
+    "percent": "1% - 1,10%",
+    "url": "https://track-pdlp.com/h/1rs16a2c40c0b422e",
+    "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
   }
 ]
