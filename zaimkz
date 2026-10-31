@@ -7,9 +7,16 @@
  "url": "https://track-pdlp.com/h/1qrt68a4186fea2b1"
 },
 {
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/banandokz.png",   
+ "company_name":"Заявка всего за 2 минуты",
+"loan_amount": "до 390 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1s5f6ae3843478cbc"
+},
+{
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credithelpkz.png",   
  "company_name":"Всегда выгодные условия",
-"loan_amount": "до 1 150 000 ₸",
+"loan_amount": "до 360 000 ₸",
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1s356a79806b57db7"
 },
@@ -26,21 +33,9 @@
 "loan_amount": "до 350 000 ₸",
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1q8t6ac1f884e77a7"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/banandokz.png",   
- "company_name":"Простая анкета — быстрый старт",
-"loan_amount": "до 390 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1s5f6ae3843478cbc"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/smszaimkzz1.png",   
- "company_name":"Первый займ под 0,01%",
-"loan_amount": "до 470 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1s4j6ac1f8d0eea35"
 }
+
+
 
 
 
