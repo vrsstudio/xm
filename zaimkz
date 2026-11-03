@@ -1,12 +1,5 @@
 [
 {
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/dengokz.png",   
- "company_name":"Первый займ под 0,01%",
-"loan_amount": "до 470 000 ₸",
-"age": "От 18 лет",
- "url": "https://track-pdlp.com/h/1qrt68a4186fea2b1"
-},
-{
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/banandokz.png",   
  "company_name":"Заявка всего за 2 минуты",
 "loan_amount": "до 390 000 ₸",
@@ -26,6 +19,13 @@
 "loan_amount": "до 300 000 ₸",
 "age": "От 18 лет",
  "url": "https://track-pdlp.com/h/1s2t6a79805367ffd"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/dengokz.png",   
+ "company_name":"Первый займ под 0,01%",
+"loan_amount": "до 470 000 ₸",
+"age": "От 18 лет",
+ "url": "https://track-pdlp.com/h/1qrt68a4186fea2b1"
 },
 {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/cashbarrz.png",   
