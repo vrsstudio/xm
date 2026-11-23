@@ -1,32 +1,32 @@
 [
   {
-    "name": "Binixo",
+    "name": "Lendio",
     "price_info": "Desde 1% hasta 500 000 MXN",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
     "sum": "400 - 35 000",
     "term": "3 años",
     "percent": "1% - 1,85%",
-    "url": "https://track-pdlp.com/h/1qd668860ad3170b1",
+    "url": "https://track-pdlp.com/h/1rae6909ca7843b61",
     "text": "<p>100 días sin intereses en compras y retiros de efectivo.</p><p>Límite de crédito de hasta 500 000 MXN.</p>"
   },
   {
-    "name": "Klar",
+    "name": "Finloo",
     "price_info": "Desde 0% hasta 300 000 MXN",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
     "sum": "400 - 19 000",
     "term": "2 años",
     "percent": "1% - 1,10%",
-    "url": "https://track-pdlp.com/h/1qqb68860a98229aa",
+    "url": "https://track-pdlp.com/h/1rc4688609d1b24ff",
     "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
   },
   {
-    "name": "Alvos",
+    "name": "Solcredito",
     "price_info": "Desde 0% hasta 300 000 MXN",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
     "sum": "400 - 19 000",
     "term": "2 años",
     "percent": "1% - 1,10%",
-    "url": "https://track-pdlp.com/h/1rs16a2c40c0b422e",
+    "url": "https://track-pdlp.com/h/1pde6891ae79729ad",
     "text": "<p>Nuevo cashback aumentado del 5% en electrodomésticos, electrónica, ropa y calzado.</p><p>Límite de crédito de hasta 300 000 MXN.</p>"
   }
 ]
